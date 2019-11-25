@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="gruppe15@192.168.0.105:22">
+    <serverData>
+      <paths name="JesonNano">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gruppe15@192.168.0.105:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/gruppe15/Documents/ProsjektAtomCar2019/PytonClientRoboclaw" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@Gruppe15-RPi4.local:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/Documents/Finn/phytonServer" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
